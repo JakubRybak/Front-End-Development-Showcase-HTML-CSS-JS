@@ -1,4 +1,4 @@
-# 5G Website Project
+# 5G Website Team Project
 # Link to the website
 # https://jakubrybak.github.io/Front-End-Development-Showcase-HTML-CSS-JS/
 ## Description
