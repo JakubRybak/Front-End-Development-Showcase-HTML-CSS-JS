@@ -1,5 +1,6 @@
 # 5G Website Project
-#https://jakubrybak.github.io/Front-End-Development-Showcase-HTML-CSS-JS/
+# Link to the website
+# https://jakubrybak.github.io/Front-End-Development-Showcase-HTML-CSS-JS/
 ## Description
 This project is a website built to demonstrate the basics of 5G technology, including its benefits, challenges, and the impact on the future of communication. The project was created using HTML, CSS, and JavaScript to display an interactive webpage with information about 5G.
 
